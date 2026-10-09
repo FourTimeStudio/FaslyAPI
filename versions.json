@@ -1,0 +1,16 @@
+{
+  "games": {
+    "1": {
+      "name": "Square-War",
+      "version": "V-A0.1.4",
+      "download_url": "https://your-user.itch.io/square-war",
+      "exe": "SquareWar.exe"
+    },
+    "2": {
+      "name": "VoidFold",
+      "version": "V-A0.1.0",
+      "download_url": "https://your-user.itch.io/voidfold",
+      "exe": "VoidFold.exe"
+    }
+  }
+}
