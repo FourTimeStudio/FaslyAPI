@@ -1,14 +1,16 @@
 {
   "games": {
     "1": {
-      "name": "Square-War",
-      "version": "V-A0.1.4",
-      "download_url": "https://your-user.itch.io/square-war",
-      "exe": "SquareWar.exe"
+      "name": "Void-Path",
+      "version": "Beta 1.0",
+      "description": "Prototype game of Void Fold with simple gameplay.",
+      "download_url": "https://fourtimestudio.itch.io/void-patch/download/eyJpZCI6MzE5NDM1NywiZXhwaXJlcyI6MTc5MTc0MzMxOH0%3D.TEKt%2BgvdQ4bqyFC%2F7DfmtTHMtHk%3D",
+      "exe": "Void-Patch.exe"
     },
     "2": {
       "name": "VoidFold",
       "version": "V-A0.1.0",
+      "description": "A 2D top-down shooter game with specific graphic and simple gameplay.",
       "download_url": "https://fourtimestudio.itch.io/void-patch",
       "exe": "VoidFold.exe"
     }
