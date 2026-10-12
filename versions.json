@@ -1,18 +1,22 @@
 {
   "games": {
     "1": {
-      "name": "Void-Path",
+      "name": "Void-Patch",
       "version": "Beta 1.0",
-      "description": "Prototype game of Void Fold with simple gameplay.",
+      "description": "It's a prototype of Void Fold game but with easier gameplay",
       "download_url": "https://data.fourtimestudio.com/builds/Void-Patch1.0.zip",
-      "exe": "Void-Patch.exe"
+      "exe": "Void-Patch.exe",
+      "platforms": ["windows"],
+      "is_free": true
     },
     "2": {
       "name": "VoidFold",
       "version": "V-A0.1.0",
-      "description": "A 2D top-down shooter game with specific graphic and simple gameplay.",
-      "download_url": "https://fourtimestudio.itch.io/void-patch",
-      "exe": "VoidFold.exe"
+      "description": "A 2D top-down shooter game with specific graphic gameplay.",
+      "download_url": "https://fourtimestudio.github.io/FaslyAPI/builds/VoidFold.zip",
+      "exe": "VoidFold.exe",
+      "platforms": ["windows", "linux"],
+      "is_free": true
     }
   }
 }
